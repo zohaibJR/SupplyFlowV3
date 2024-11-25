@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyD2VagIfdwHHxMYcf9gT3d7CEnJ5GCKANc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>121312876142</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.supplyflow360</string>
+	<key>PROJECT_ID</key>
+	<string>supplyflow360-r8u3vw</string>
+	<key>STORAGE_BUCKET</key>
+	<string>supplyflow360-r8u3vw.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:121312876142:ios:5363c81298d86cdcb1f87f</string>
+</dict>
+</plist>

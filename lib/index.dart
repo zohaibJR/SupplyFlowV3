@@ -1,0 +1,124 @@
+// Export pages
+export '/pages/home_page/home_page_widget.dart' show HomePageWidget;
+export '/hr_module/hr_manager_pages/hr_login_page/hr_login_page_widget.dart'
+    show HrLoginPageWidget;
+export '/hr_module/hr_manager_pages/hr_home_page/hr_home_page_widget.dart'
+    show HrHomePageWidget;
+export '/hr_module/hr_manager_pages/hr_driver_pages/hr_update_driver_profile_page/hr_update_driver_profile_page_widget.dart'
+    show HrUpdateDriverProfilePageWidget;
+export '/hr_module/hr_manager_pages/hr_profile_page/hr_profile_page_widget.dart'
+    show HrProfilePageWidget;
+export '/general_pages/privacy_policy_page/privacy_policy_page_widget.dart'
+    show PrivacyPolicyPageWidget;
+export '/general_pages/help_and_support_page/help_and_support_page_widget.dart'
+    show HelpAndSupportPageWidget;
+export '/hr_module/hr_manager_pages/hr_update_profile_page/hr_update_profile_page_widget.dart'
+    show HrUpdateProfilePageWidget;
+export '/general_pages/login_entity_decision_page/login_entity_decision_page_widget.dart'
+    show LoginEntityDecisionPageWidget;
+export '/hr_module/hr_manager_pages/hr_driver_pages/hr_drivers_list_page/hr_drivers_list_page_widget.dart'
+    show HrDriversListPageWidget;
+export '/hr_module/hr_manager_pages/hr_driver_pages/hr_view_driver_profile_page/hr_view_driver_profile_page_widget.dart'
+    show HrViewDriverProfilePageWidget;
+export '/hr_module/hr_manager_pages/hr_driver_pages/hr_add_driver_page/hr_add_driver_page_widget.dart'
+    show HrAddDriverPageWidget;
+export '/hr_module/hr_manager_pages/hr_driver_pages/hr_delete_driver_profile_page/hr_delete_driver_profile_page_widget.dart'
+    show HrDeleteDriverProfilePageWidget;
+export '/hr_module/hr_manager_pages/hr_vehicle_pages/hr_add_vehicle_page/hr_add_vehicle_page_widget.dart'
+    show HrAddVehiclePageWidget;
+export '/hr_module/hr_manager_pages/hr_vehicle_pages/hr_vehicle_list_page/hr_vehicle_list_page_widget.dart'
+    show HrVehicleListPageWidget;
+export '/hr_module/hr_manager_pages/hr_vehicle_pages/hr_update_vehicle_page/hr_update_vehicle_page_widget.dart'
+    show HrUpdateVehiclePageWidget;
+export '/hr_module/hr_manager_pages/hr_vehicle_pages/hr_view_vehicle_profile_page/hr_view_vehicle_profile_page_widget.dart'
+    show HrViewVehicleProfilePageWidget;
+export '/hr_module/hr_manager_pages/hr_vehicle_pages/hr_delete_vehicle_page/hr_delete_vehicle_page_widget.dart'
+    show HrDeleteVehiclePageWidget;
+export '/supplier_module/supplier_pages/supplier_customers_pages/supplier_add_customer_page/supplier_add_customer_page_widget.dart'
+    show SupplierAddCustomerPageWidget;
+export '/hr_module/hr_manager_pages/hr_supplier_pages/hr_supplier_list_page/hr_supplier_list_page_widget.dart'
+    show HrSupplierListPageWidget;
+export '/hr_module/hr_manager_pages/hr_supplier_pages/hr_update_supplier_profile_page/hr_update_supplier_profile_page_widget.dart'
+    show HrUpdateSupplierProfilePageWidget;
+export '/hr_module/hr_manager_pages/hr_supplier_pages/hr_view_supplier_profile_page/hr_view_supplier_profile_page_widget.dart'
+    show HrViewSupplierProfilePageWidget;
+export '/supplier_module/supplier_pages/supplier_home_page/supplier_home_page_widget.dart'
+    show SupplierHomePageWidget;
+export '/supplier_module/supplier_pages/supplier_dashboard_pages/supplier_dashboard_page/supplier_dashboard_page_widget.dart'
+    show SupplierDashboardPageWidget;
+export '/supplier_module/supplier_pages/supplier_customers_pages/supplier_customer_list_page/supplier_customer_list_page_widget.dart'
+    show SupplierCustomerListPageWidget;
+export '/supplier_module/supplier_pages/supplier_customers_pages/supplier_update_customer_profile_page/supplier_update_customer_profile_page_widget.dart'
+    show SupplierUpdateCustomerProfilePageWidget;
+export '/supplier_module/supplier_pages/supplier_customers_pages/supplier_view_customer_profile_page/supplier_view_customer_profile_page_widget.dart'
+    show SupplierViewCustomerProfilePageWidget;
+export '/hr_module/hr_manager_pages/hr_supplier_pages/hr_delete_supplier_profile_page/hr_delete_supplier_profile_page_widget.dart'
+    show HrDeleteSupplierProfilePageWidget;
+export '/supplier_module/supplier_pages/supplier_orders_pages/supplier_orders_list/supplier_orders_list_widget.dart'
+    show SupplierOrdersListWidget;
+export '/supplier_module/supplier_pages/supplier_orders_pages/supplier_order_details_page/supplier_order_details_page_widget.dart'
+    show SupplierOrderDetailsPageWidget;
+export '/supplier_module/supplier_pages/supplier_orders_pages/supplier_order_process_select_driver_page/supplier_order_process_select_driver_page_widget.dart'
+    show SupplierOrderProcessSelectDriverPageWidget;
+export '/supplier_module/supplier_pages/supplier_orders_pages/supplier_order_process_select_vehicle_page/supplier_order_process_select_vehicle_page_widget.dart'
+    show SupplierOrderProcessSelectVehiclePageWidget;
+export '/supplier_module/supplier_pages/supplier_orders_pages/supplier_order_process_confirm_delivery_page/supplier_order_process_confirm_delivery_page_widget.dart'
+    show SupplierOrderProcessConfirmDeliveryPageWidget;
+export '/supplier_module/supplier_pages/supplier_orders_pages/supplier_order_process_order_confirmed_page/supplier_order_process_order_confirmed_page_widget.dart'
+    show SupplierOrderProcessOrderConfirmedPageWidget;
+export '/supplier_module/supplier_pages/supplier_profile_page/supplier_profile_page_widget.dart'
+    show SupplierProfilePageWidget;
+export '/supplier_module/supplier_pages/supplier_update_profile_page/supplier_update_profile_page_widget.dart'
+    show SupplierUpdateProfilePageWidget;
+export '/supplier_module/supplier_pages/supplier_login_page/supplier_login_page_widget.dart'
+    show SupplierLoginPageWidget;
+export '/supplier_module/supplier_pages/supplier_create_account_page/supplier_create_account_page_widget.dart'
+    show SupplierCreateAccountPageWidget;
+export '/hr_module/hr_manager_pages/hr_supplier_pages/hr_add_supplier_page/hr_add_supplier_page_widget.dart'
+    show HrAddSupplierPageWidget;
+export '/driver_module/driver_pages/driver_home_page/driver_home_page_widget.dart'
+    show DriverHomePageWidget;
+export '/driver_module/driver_pages/driver_profile_page/driver_profile_page_widget.dart'
+    show DriverProfilePageWidget;
+export '/driver_module/driver_pages/driver_update_profile_page/driver_update_profile_page_widget.dart'
+    show DriverUpdateProfilePageWidget;
+export '/driver_module/driver_pages/driver_jobs/driver_jobs_list_page/driver_jobs_list_page_widget.dart'
+    show DriverJobsListPageWidget;
+export '/driver_module/driver_pages/driver_jobs/driver_order_details_page/driver_order_details_page_widget.dart'
+    show DriverOrderDetailsPageWidget;
+export '/driver_module/driver_pages/driver_create_account_page/driver_create_account_page_widget.dart'
+    show DriverCreateAccountPageWidget;
+export '/driver_module/driver_pages/driver_login_page/driver_login_page_widget.dart'
+    show DriverLoginPageWidget;
+export '/customer_module/customer_pages/customer_home_page/customer_home_page_widget.dart'
+    show CustomerHomePageWidget;
+export '/customer_module/customer_pages/customer_profile_page/customer_profile_page_widget.dart'
+    show CustomerProfilePageWidget;
+export '/customer_module/customer_pages/customer_update_profile_page/customer_update_profile_page_widget.dart'
+    show CustomerUpdateProfilePageWidget;
+export '/customer_module/customer_pages/customer_orders_pages/customer_orders_list_page/customer_orders_list_page_widget.dart'
+    show CustomerOrdersListPageWidget;
+export '/customer_module/customer_pages/customer_orders_pages/customer_order_details_page/customer_order_details_page_widget.dart'
+    show CustomerOrderDetailsPageWidget;
+export '/customer_module/customer_pages/customer_inventory_pages/customer_inventory_list_page/customer_inventory_list_page_widget.dart'
+    show CustomerInventoryListPageWidget;
+export '/customer_module/customer_pages/customer_inventory_pages/customer_add_product_page/customer_add_product_page_widget.dart'
+    show CustomerAddProductPageWidget;
+export '/customer_module/customer_pages/customer_inventory_pages/customer_update_product_page/customer_update_product_page_widget.dart'
+    show CustomerUpdateProductPageWidget;
+export '/customer_module/customer_pages/customer_inventory_pages/customer_product_view_page/customer_product_view_page_widget.dart'
+    show CustomerProductViewPageWidget;
+export '/customer_module/customer_pages/customer_login_page/customer_login_page_widget.dart'
+    show CustomerLoginPageWidget;
+export '/customer_module/customer_pages/customer_create_account_page/customer_create_account_page_widget.dart'
+    show CustomerCreateAccountPageWidget;
+export '/customer_module/customer_pages/customer_inventory_pages/customer_sell_product_page/customer_sell_product_page_widget.dart'
+    show CustomerSellProductPageWidget;
+export '/supplier_module/supplier_pages/supplier_drivers_pages/supplier_drivers_list_page/supplier_drivers_list_page_widget.dart'
+    show SupplierDriversListPageWidget;
+export '/supplier_module/supplier_pages/supplier_drivers_pages/supplier_view_driver_profile_page/supplier_view_driver_profile_page_widget.dart'
+    show SupplierViewDriverProfilePageWidget;
+export '/supplier_module/supplier_pages/supplier_vehicles_pages/supplier_vehicle_list_page/supplier_vehicle_list_page_widget.dart'
+    show SupplierVehicleListPageWidget;
+export '/supplier_module/supplier_pages/supplier_vehicles_pages/supplier_view_vehicle_profile_page/supplier_view_vehicle_profile_page_widget.dart'
+    show SupplierViewVehicleProfilePageWidget;

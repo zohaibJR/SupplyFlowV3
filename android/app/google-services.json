@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121312876142",
+    "project_id": "supplyflow360-r8u3vw",
+    "storage_bucket": "supplyflow360-r8u3vw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121312876142:android:207c9772d10d2f66b1f87f",
+        "android_client_info": {
+          "package_name": "com.mycompany.supplyflow360"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQU57XXgcrcfLUzcRkjLZm-sIV5HSPQ0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
